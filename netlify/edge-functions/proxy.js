@@ -1,4 +1,4 @@
-const TARGET = 'https://info-khadi-3gaefuu2rht.qoder.website';
+const TARGET = 'https://infokhadi-3gaefuu2rht.qoder.website';
 
 const STRIP = new Set([
   'host',
